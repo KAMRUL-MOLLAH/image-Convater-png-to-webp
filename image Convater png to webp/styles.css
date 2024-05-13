@@ -1,0 +1,54 @@
+body {
+    font-family: Impact;
+
+    
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .drop-area {
+   padding: 5px;
+   margin-left: 30%;
+   background-color: ;
+   border: 2px solid #61bbaf;
+   color: #665a5a;
+   text-align: center;
+   transition: background-color .2s ease, color .2s ease;
+   height: 100px;
+   width: 600px;
+   text-align: center;
+   border-radius: 25%;
+  }
+  
+  .drop-area p {
+    margin: 0;
+    font-variant: normal;
+    font-size: medium;
+    align-items: center;
+  }
+  
+  .preview {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .preview img {
+    max-width: 200px;
+    height: auto;
+    margin: 10px;
+  }
+  
+.button{
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    font-size: 40px;
+
+}
+.button button{
+    
+}
